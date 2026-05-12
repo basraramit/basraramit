@@ -50,6 +50,8 @@ I'm a **Montreal-based Application Support Engineer** with 5+ years of L1–L3 p
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-00C65E?style=flat-square&logo=servicenow&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -72,7 +74,7 @@ I'm a **Montreal-based Application Support Engineer** with 5+ years of L1–L3 p
 ### 🏥 Production Health Check Suite *(Bash)*
 > Morning system health check script used in production support workflows — validates service status, log errors, and API endpoint availability across multiple environments.
 
-**Stack:** `Bash` `cURL` `grep` `systemctl` `cron`
+**Stack:** `Bash` `cURL` `grep` `systemctl` `cron` `AWK` `sed` `find`
 
 - Scans service states, disk usage, and recent error patterns
 - Outputs colour-coded summary report to stdout and optional log file
@@ -92,14 +94,16 @@ I'm a **Montreal-based Application Support Engineer** with 5+ years of L1–L3 p
 
 ---
 
-## 📚 Currently Learning
+## ⚙️ Always Pushing Further
+
+*I already use these tools in production support workflows — guiding clients through automation, infrastructure changes, and platform operations. This is where I'm expanding my depth.*
 
 ```
-🔄  Ansible Automation Specialist   ████████░░  80%
-☁️  AWS Cloud Practitioner          ███████░░░  70%
-🐳  Docker & Container Workflows    ██████░░░░  60%
-🔁  CI/CD (GitHub Actions)          █████░░░░░  50%
-📊  AIOps & Observability           ████░░░░░░  40%
+🔄  Ansible Automation             ████████░░  80%
+☁️  AWS (Cloud Practitioner)       ███████░░░  70%
+🐳  Docker & Containers            ██████░░░░  60%
+🔁  CI/CD (GitHub Actions)         █████░░░░░  50%
+📊  AIOps & Observability          ████░░░░░░  40%
 ```
 
 ---
