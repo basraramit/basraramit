@@ -80,13 +80,13 @@ I'm a **Montreal-based Application Support Engineer** with 5+ years of L1–L3 p
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![Ramit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=basraramit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=basraramit&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basraramit&layout=compact&theme=tokyonight&hide_border=true)
+[![Ramit's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=basraramit&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -115,5 +115,3 @@ I'm actively exploring **DevOps**, **SRE**, and **senior production support** ro
 <div align="center">
 <sub>⚡ Profile auto-generated with ❤️ and too much caffeine from Montreal ☕</sub>
 </div>
-</div>
-
