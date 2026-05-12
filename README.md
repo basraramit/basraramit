@@ -5,7 +5,7 @@
 **Application Support Engineer → DevOps / SRE**  
 *Building reliability, automation, and observability at scale*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramitbasra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramit-basra)
 [![Montreal, QC](https://img.shields.io/badge/📍_Montreal,_QC-grey?style=for-the-badge)]()
 
 </div>
