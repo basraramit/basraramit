@@ -108,7 +108,7 @@ I'm a **Montreal-based Application Support Engineer** with 5+ years of L1–L3 p
 
 I'm actively exploring **DevOps**, **SRE**, and **senior production support** roles in Montreal and remote. If you're building something interesting or want to talk shop about automation, observability, or cloud infrastructure — reach out!
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramitbasra)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramit-basra)
 
 ---
 
